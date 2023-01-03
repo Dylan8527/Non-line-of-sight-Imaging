@@ -24,4 +24,4 @@ python visualize.py
 
 ## Results
 
-![image-20230103180743256](pictures\result.png)
+![image-20230103180743256](pictures/result.png)
